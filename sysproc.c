@@ -97,8 +97,7 @@ sys_uptime(void)
 int
 sys_wcupa(void)
 {
-  testcount++;
-  return testcount;
+  return 1871;
 }
 
 int
