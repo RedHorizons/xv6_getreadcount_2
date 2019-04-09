@@ -3,7 +3,7 @@
 #include "user.h"
  
 int main(void) {
-  printf(1, "The system call read() has been used this many times %d\n", getreadcount());
+  printf(1, "West Chester University was founded in %d\n", wcupa());
   exit();
 }
 
